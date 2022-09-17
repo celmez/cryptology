@@ -1,2 +1,1 @@
-# cryptology
- How to make cryptology
+Herkese merhaba bu işinize yarayacağını düşündüğüm bir kriptolama sınıfı
